@@ -1,3 +1,6 @@
-![Imgur](https://i.imgur.com/mnni5uK.png)
-
-![Imgur](https://i.imgur.com/m26Omur.png)
+![Imgur](https://i.imgur.com/9b8FfZG.png) 
+![Imgur](https://i.imgur.com/EWHiyRZ.png) 
+![Imgur](https://i.imgur.com/a6VVW3w.png) 
+![Imgur](https://i.imgur.com/UW2gCyx.png) 
+![Imgur](https://i.imgur.com/fvm2wXD.png) 
+![Imgur](https://i.imgur.com/8BgnAV6.png)
