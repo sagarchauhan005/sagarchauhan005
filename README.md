@@ -1,9 +1,9 @@
-![https://sagarchauhan005.github.io/](https://i.imgur.com/mdCZDXV.png)
+[![Website](https://i.imgur.com/azeFyo4.png)](https://sagarchauhan005.github.io/)
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sagar!
 --- 
 
-![http://bit.ly/know-more-about-me](https://i.imgur.com/Aqs8ZGz.png)
+[![Personality Doc](https://i.imgur.com/Aqs8ZGz.png)](http://bit.ly/know-more-about-me)
 
 ---
 
@@ -21,6 +21,7 @@
 - [Laravel S3 Browser](https://postscripts.medium.com/laravel-s3-browser-b47fa91367)
 - [My Quest of “Making it” into the field of Programming !](https://postscripts.medium.com/my-quest-of-making-it-into-the-field-of-programming-bed6e5ab320c)
 - [Being Technical Project Manager —101](https://postscripts.medium.com/being-technical-project-manager-101-653154454bb1)
+- [Being Technical Project Manager —102](https://postscripts.medium.com/being-technical-project-manager-102-946fbbb14c8f)
 
 ▶ [...more blog articles](https://postscripts.medium.com/)
 
