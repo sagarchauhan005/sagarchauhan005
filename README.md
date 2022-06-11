@@ -1,6 +1,6 @@
 [![Website](https://i.imgur.com/za0e1zh.png)](https://sagarchauhan005.github.io/)
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sagar!
+### Hi there, I am Sagar!
 --- 
 
 [![My Hustle](https://i.imgur.com/RSwYOUh.png)](https://sagarchauhan005.github.io/)
