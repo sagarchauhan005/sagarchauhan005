@@ -7,11 +7,12 @@
 
 [![Personality Doc](https://i.imgur.com/Aqs8ZGz.png)](http://bit.ly/know-more-about-me)
 
----
 
+<!--
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sagarchauhan005&count_private=true&show_icons=true">
-</p>
+</p>-->
 
 ---
 📘 My Medium Articles
