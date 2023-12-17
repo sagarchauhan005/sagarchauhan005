@@ -1,4 +1,5 @@
-[![Website](https://i.imgur.com/za0e1zh.png)](https://sagarchauhan005.github.io/)
+![Screenshot from 2023-12-17 19-35-37](https://github.com/sagarchauhan005/sagarchauhan005/assets/7292512/dfce3241-6f40-4f49-98ed-5ddd8bdad19f)
+
 
 ### Hi there, I am Sagar!
 --- 
