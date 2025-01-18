@@ -1,4 +1,6 @@
-![Screenshot from 2023-12-17 19-35-37](https://github.com/sagarchauhan005/sagarchauhan005/assets/7292512/dfce3241-6f40-4f49-98ed-5ddd8bdad19f)
+![screencapture-sagarchauhan005-github-io-2025-01-18-21_30_10](https://github.com/user-attachments/assets/2096bc78-b837-4400-971f-f115d61a4d97)
+
+<!--![Screenshot from 2023-12-17 19-35-37](https://github.com/sagarchauhan005/sagarchauhan005/assets/7292512/dfce3241-6f40-4f49-98ed-5ddd8bdad19f)
 
 
 ### Hi there, I am Sagar!
@@ -6,7 +8,7 @@
 
 [![My Hustle](https://i.imgur.com/RSwYOUh.png)](https://sagarchauhan005.github.io/)
 
-[![Personality Doc](https://i.imgur.com/Aqs8ZGz.png)](http://bit.ly/know-more-about-me)
+[![Personality Doc](https://i.imgur.com/Aqs8ZGz.png)](http://bit.ly/know-more-about-me)-->
 
 
 <!--
